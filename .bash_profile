@@ -52,7 +52,6 @@ export PS1='\u@\h \[\033[1;33m\]\w\[\033[0m\]$(parse_git_branch)$ '
 
 
 
-
 # Set your path, adding whatever your installed software needs.
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
 export PATH=~/Library/Python/2.7/bin:$PATH
